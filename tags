@@ -942,6 +942,7 @@ arch	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.
 bin-file	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	s	object:install-plan.89
 bindir	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/recho-0.1.0.0/x/recho/build/recho/autogen/Paths_recho.hs	/^bindir     = "\/home\/fcortesi\/.cabal\/bin"$/;"	f
 bindir	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/recho-0.1.0.0/x/recho/build/recho/autogen/Paths_recho.hs	/^bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath$/;"	f
+build	/mnt/samsung/Biblioteca/Work/Projects/recho/makefile	/^build:$/;"	t
 build-info	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	s	object:install-plan.89
 cabal-lib-version	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	s
 cabal-version	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	s
@@ -1543,6 +1544,7 @@ pkg-version	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version
 pkg-version	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	s	object:install-plan.97
 pkg-version	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	s	object:install-plan.98
 pkg-version	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	s	object:install-plan.99
+serve	/mnt/samsung/Biblioteca/Work/Projects/recho/makefile	/^serve:$/;"	t
 server	/home/fcortesi/recho/app/Main.hs	/^server = handler$/;"	f
 style	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	s	object:install-plan.89
 sysconfdir	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/recho-0.1.0.0/x/recho/build/recho/autogen/Paths_recho.hs	/^sysconfdir = "\/home\/fcortesi\/.cabal\/etc"$/;"	f
