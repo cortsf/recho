@@ -11,9 +11,9 @@ import Servant
 import Network.Wai.Middleware.RequestLogger
 import Control.Monad.IO.Class
 
-type Api = ReqBody '[JSON] String :> Post '[JSON] String
+type Api = ReqBody '[JSON] Value :> Post '[JSON] String
 
-handler :: String -> Handler String
+handler :: Value -> Handler String
 handler x = do
   liftIO $ putStrLn $ show x
   pure "bye"
