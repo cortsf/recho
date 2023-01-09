@@ -899,8 +899,7 @@
 97	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	o	array:install-plan
 98	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	o	array:install-plan
 99	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	o	array:install-plan
-Api	/home/fcortesi/recho/app/Main.hs	/^type Api = ReqBody '[JSON] String :> Post '[JSON] String$/;"	t
-Api	/mnt/samsung/Biblioteca/Work/Projects/recho/app/Main.hs	/^type Api = ReqBody '[JSON] Value :> Post '[JSON] String$/;"	t
+Api	/home/fcortesi/recho/app/Main.hs	/^type Api = ReqBody '[JSON] Value :> Post '[JSON] String$/;"	t
 CURRENT_COMPONENT_ID	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/recho-0.1.0.0/x/recho/build/recho/autogen/cabal_macros.h	/^#define CURRENT_COMPONENT_ID /;"	d
 CURRENT_PACKAGE_VERSION	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/recho-0.1.0.0/x/recho/build/recho/autogen/cabal_macros.h	/^#define CURRENT_PACKAGE_VERSION /;"	d
 MIN_TOOL_VERSION_gcc	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/recho-0.1.0.0/x/recho/build/recho/autogen/cabal_macros.h	/^#define MIN_TOOL_VERSION_gcc(/;"	d
@@ -920,7 +919,6 @@ MIN_VERSION_wai	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/
 MIN_VERSION_wai_extra	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/recho-0.1.0.0/x/recho/build/recho/autogen/cabal_macros.h	/^#define MIN_VERSION_wai_extra(/;"	d
 MIN_VERSION_warp	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/recho-0.1.0.0/x/recho/build/recho/autogen/cabal_macros.h	/^#define MIN_VERSION_warp(/;"	d
 Main	/home/fcortesi/recho/app/Main.hs	/^module Main where$/;"	m
-Main	/mnt/samsung/Biblioteca/Work/Projects/recho/app/Main.hs	/^module Main where$/;"	m
 Paths_recho	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/recho-0.1.0.0/x/recho/build/recho/autogen/Paths_recho.hs	/^module Paths_recho ($/;"	m
 Revision history for recho	/home/fcortesi/recho/CHANGELOG.md	/^# Revision history for recho$/;"	c
 TOOL_VERSION_gcc	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/recho-0.1.0.0/x/recho/build/recho/autogen/cabal_macros.h	/^#define TOOL_VERSION_gcc /;"	d
@@ -940,7 +938,6 @@ VERSION_wai	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/rech
 VERSION_wai_extra	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/recho-0.1.0.0/x/recho/build/recho/autogen/cabal_macros.h	/^#define VERSION_wai_extra /;"	d
 VERSION_warp	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/recho-0.1.0.0/x/recho/build/recho/autogen/cabal_macros.h	/^#define VERSION_warp /;"	d
 api	/home/fcortesi/recho/app/Main.hs	/^api = Proxy$/;"	f
-api	/mnt/samsung/Biblioteca/Work/Projects/recho/app/Main.hs	/^api = Proxy$/;"	f
 arch	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	s
 bin-file	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	s	object:install-plan.89
 bindir	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/recho-0.1.0.0/x/recho/build/recho/autogen/Paths_recho.hs	/^bindir     = "\/home\/fcortesi\/.cabal\/bin"$/;"	f
@@ -1108,7 +1105,6 @@ getLibDir	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/recho-
 getLibexecDir	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/recho-0.1.0.0/x/recho/build/recho/autogen/Paths_recho.hs	/^getLibexecDir = catchIO (getEnv "recho_libexecdir") (\\_ -> return libexecdir)$/;"	f
 getSysconfDir	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/recho-0.1.0.0/x/recho/build/recho/autogen/Paths_recho.hs	/^getSysconfDir = catchIO (getEnv "recho_sysconfdir") (\\_ -> return sysconfdir)$/;"	f
 handler	/home/fcortesi/recho/app/Main.hs	/^handler x = do$/;"	f
-handler	/mnt/samsung/Biblioteca/Work/Projects/recho/app/Main.hs	/^handler x = do$/;"	f
 id	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	s	object:install-plan.0
 id	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	s	object:install-plan.1
 id	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	s	object:install-plan.10
@@ -1260,7 +1256,6 @@ joinFileName	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/rec
 libdir	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/recho-0.1.0.0/x/recho/build/recho/autogen/Paths_recho.hs	/^libdir     = "\/home\/fcortesi\/.cabal\/lib\/x86_64-linux-ghc-9.2.5\/recho-0.1.0.0-inplace-recho/;"	f
 libexecdir	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/recho-0.1.0.0/x/recho/build/recho/autogen/Paths_recho.hs	/^libexecdir = "\/home\/fcortesi\/.cabal\/libexec\/x86_64-linux-ghc-9.2.5\/recho-0.1.0.0"$/;"	f
 main	/home/fcortesi/recho/app/Main.hs	/^main = do$/;"	f
-main	/mnt/samsung/Biblioteca/Work/Projects/recho/app/Main.hs	/^main = do$/;"	f
 os	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	s
 path	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	s	object:install-plan.89.pkg-src
 pathSeparator	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/recho-0.1.0.0/x/recho/build/recho/autogen/Paths_recho.hs	/^pathSeparator = '\/'$/;"	f
@@ -1551,7 +1546,6 @@ pkg-version	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version
 pkg-version	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	s	object:install-plan.99
 serve	/home/fcortesi/recho/makefile	/^serve:$/;"	t
 server	/home/fcortesi/recho/app/Main.hs	/^server = handler$/;"	f
-server	/mnt/samsung/Biblioteca/Work/Projects/recho/app/Main.hs	/^server = handler$/;"	f
 style	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	s	object:install-plan.89
 sysconfdir	/home/fcortesi/recho/dist-newstyle/build/x86_64-linux/ghc-9.2.5/recho-0.1.0.0/x/recho/build/recho/autogen/Paths_recho.hs	/^sysconfdir = "\/home\/fcortesi\/.cabal\/etc"$/;"	f
 type	/home/fcortesi/recho/dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.5","os":"linux",/;"	s	object:install-plan.0
