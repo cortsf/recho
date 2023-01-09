@@ -1,0 +1,12 @@
+[33mPOST[0m /
+[37m  Request Body: [0m{"context":{"block_hash":"d703cbccd70f5c0dfc6f063d90e3e75556e8fe4bd220c150ee4d8e9c8d194862","block_number":6640897,"slot":48210727,"timestamp":1639777018,"tx_idx":11,"tx_hash":"f2a60987b61d3539935b94c19e1caae9fc66fc44af9d38428684cb5142a377a1","input_idx":null,"output_idx":null,"output_address":null,"certificate_idx":null},"metadata":{"label":"674","map_json":{"msg":["Thank you!"]}},"fingerprint":null,"variant":"Metadata","timestamp":1639777018000}
+[37m  Accept: [0m*/*
+[37m  Status: [0m[31m400 Bad Request[0m 0.00007613s
+[33mPOST[0m /
+[37m  Request Body: [0m{"context":{"block_hash":"d703cbccd70f5c0dfc6f063d90e3e75556e8fe4bd220c150ee4d8e9c8d194862","block_number":6640897,"slot":48210727,"timestamp":1639777018,"tx_idx":13,"tx_hash":"c12abf4cd452718257b4f66617552089aa5758649a8fe5fc05278f4550f61a74","input_idx":null,"output_idx":null,"output_address":null,"certificate_idx":null},"metadata":{"label":"721","map_json":{"404455710f2c0b8c598ff1fe1f6456f1cd13f9a4cc6512ee3d40d3dc":{"llr441":{"Attributes":{"BACKGROUND":"Black Orb","CLOTHING":"Yellow Pop Candy Shirt","EYE ITEM":"Spike Shades","EYES":"BTC","HAND ITEM":"Simon","HEAD ITEM":"Orange Headband","MOUTH ITEM":"Green Flames","SKIN":"Warm Shapes","TEETH":"Purple Fire"},"Collection":"Retro Raptors","Twitter":"https://twitter.com/LuckyLizardClub","image":"ipfs://QmSiGprh74XLLkz53U3Sp6KMcyTYQMDFCXwDQZJpFbe7HE","name":"Retro Raptor #441"}}}},"fingerprint":null,"variant":"Metadata","timestamp":1639777018000}
+[37m  Accept: [0m*/*
+[37m  Status: [0m[31m400 Bad Request[0m 0.000084371s
+[33mPOST[0m /
+[37m  Request Body: [0m{"context":{"block_hash":"ebd2d96e7bac131ae8439193d522a9bacd7ac559d7ceb7a33a86d5a7ea2fde0f","block_number":6640898,"slot":48210733,"timestamp":1639777024,"tx_idx":1,"tx_hash":"e0678c47a692de7959dd1ba4ff2d77cc01860beb56ad521ba86f3a95cb32fc33","input_idx":null,"output_idx":null,"output_address":null,"certificate_idx":null},"metadata":{"label":"721","map_json":{"8feebc6c314ce6394c50bb32a94459f71c22bfb31fefc1f1154bbbc4":{"IsometricWorldTwo2078":{"attributes":{"Building Number":9,"Building Type":"Semi Detached","Color":"Hot Pink","Props":"High"},"image":"ipfs://QmT5rNH6mHoNC4F9tKr2v6EK2FB94PvKM6EnYvLrBNtsjm","name":"Isometric World S2 1002","series":"Series 2"}}}},"fingerprint":null,"variant":"Metadata","timestamp":1639777024000}
+[37m  Accept: [0m*/*
+[37m  Status: [0m[31m400 Bad Request[0m 0.000104067s
