@@ -22,5 +22,6 @@ executable recho
                     , wai
                     , warp
                     , wai-extra
+                    , time
     hs-source-dirs:   app
     default-language: GHC2021
